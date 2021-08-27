@@ -10,4 +10,4 @@ Primeiramente estudei 3 métodos de machine learning pela internet (Fontes no ú
 <a>machinelearningmastery.com</a><br>
 <a></a>youtube.com/watch?v=JyGGMyR3x5I&t</a><br>
 <a>developers.google.com/machine-learning/crash-course/</a><br>
-<a>neuralnetworksanddeeplearning.com//<a>
+<a>neuralnetworksanddeeplearning.com/<a>
